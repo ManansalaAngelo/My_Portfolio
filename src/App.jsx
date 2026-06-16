@@ -54,7 +54,7 @@ function App() {
     },
     {
       name: 'CSS',
-      value: 92,
+      value: 55,
       icon: Flame,
     },
     {
