@@ -44,17 +44,17 @@ function App() {
     },
     {
       name: 'Firebase',
-      value: 82,
+      value: 89,
       icon: Database,
     },
     {
       name: 'HTML',
-      value: 95,
+      value: 88,
       icon: Layout,
     },
     {
       name: 'CSS',
-      value: 55,
+      value: 78,
       icon: Flame,
     },
     {
