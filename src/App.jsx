@@ -178,7 +178,7 @@ function App() {
 
             <div className="flex flex-wrap gap-3">
               <a href="#projects" className="btn-primary">View Projects</a>
-              <a href="CV-Angelo.docx" download className="btn-secondary">Download Resume</a>
+              <a href="RESUME.pdf" download className="btn-secondary">Download Resume</a>
               <a href="#contact" className="btn-tertiary">Contact Me</a>
             </div>
           </div>
